@@ -1,0 +1,26 @@
+.container{
+  /* margin: 0 auto; */
+  text-align: center;
+}
+
+.title{
+  font-size: 7em;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+.startBtn{
+  font-size: 1.5em;
+  padding: 10px 30px 10px 30px;
+  border-radius: 5px;
+  border: 1px solid white;
+  background-color: rgba(255, 255, 255, 0.9);
+  color: black;
+}
+
+.startBtn:hover{
+  cursor: pointer;
+  border: 1px solid white;
+  color: white;
+  background-color: black;
+}
